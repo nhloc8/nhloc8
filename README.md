@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @nhloc8
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+# GitHub Stats
 
-<!---
-nhloc8/nhloc8 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+![nhloc8's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhloc8&show_icons=true&theme=radical)
+
+# Top Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nhloc8&layout=compact&theme=radical)
+
+
