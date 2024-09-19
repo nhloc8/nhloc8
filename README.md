@@ -1,4 +1,5 @@
-https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExYXJtNWY1c3QzaW10czR5ZjQzdW45dzQycG50aHRmc2w3dHp0czRjeCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/odQ5A4pdaDU8E/giphy.gif
+![image](https://github.com/user-attachments/assets/19947d36-2b42-41ea-869d-d2fcb96bd2ea)
+
 
 # GitHub Stats
 
