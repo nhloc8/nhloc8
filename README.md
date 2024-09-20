@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/19947d36-2b42-41ea-869d-d2fcb96bd2ea)
-
 
 # GitHub Stats
 
