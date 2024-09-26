@@ -1,4 +1,8 @@
-<img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW56b3R6MjRudmwzZ3I4MzBxc2FxdnNtdnIyZmRnd3FubjhscjFybSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif">
+<div align="center">
+  <img alt="GIF" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExOW56b3R6MjRudmwzZ3I4MzBxc2FxdnNtdnIyZmRnd3FubjhscjFybSZlcD12MV9pbnRlcm5naWZfYnlfaWQmY3Q9Zw/l0HlNaQ6gWfllcjDO/giphy.gif" width="700" height="385"/>
+</div>
+
+
 
 # 📊 GitHub Stats
 
